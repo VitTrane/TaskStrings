@@ -1,0 +1,6 @@
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\bin\Debug\Task8.exe.config
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\bin\Debug\Task8.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\bin\Debug\Task8.pdb
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\obj\Debug\Task8.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\obj\Debug\Task8.pdb
+E:\My\Labs\Epam\Vitalii_Korunov_Strings\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
